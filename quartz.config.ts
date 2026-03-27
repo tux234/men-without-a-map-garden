@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "tux234.github.io/men-without-a-map-garden",
+    baseUrl: "notes.menwithoutamap.com",
     ignorePatterns: ["templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
